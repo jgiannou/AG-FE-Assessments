@@ -1,0 +1,22 @@
+.blurContainer{
+    flex:1;
+    width: 100%;
+}
+.modalScreen {
+    flex:1;
+    justify-content: center;
+    align-items: center;
+
+}
+.modalBox{
+     width: 80%;
+    justify-content: center;
+    margin: auto;
+    background: white;
+    overflow: hidden;
+    padding:10px;
+}
+.row{
+    
+    margin:10px;
+}
